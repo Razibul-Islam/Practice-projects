@@ -32,3 +32,5 @@ contract TipJar {
         return messages;
     }
 }
+
+// 0xfe6c2ce16e40132415da230b5efe4f6912cffeb7
